@@ -148,6 +148,6 @@
     ]
   },
     "url": "https://github.com/jacksands/alien-deep-down",
-    "manifest": "https://github.com/jacksands/alien-deep-down/blob/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/jacksands/alien-deep-down/refs/heads/main/module.json",
     "download": "https://github.com/jacksands/alien-deep-down/archive/refs/heads/main.zip" 
 }
