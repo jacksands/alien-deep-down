@@ -98,9 +98,7 @@
       }
     }
   ],
-  "esmodules": [
-    "scripts/init.js"
-  ],
+  "esmodules": [ ],
   "relationships": {
     "requires": [
       {
