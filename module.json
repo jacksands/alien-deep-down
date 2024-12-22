@@ -98,7 +98,7 @@
       }
     }
   ],
-  "esmodules": [ ],
+  "esmodules": [],
   "relationships": {
     "requires": [
       {
