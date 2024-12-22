@@ -130,7 +130,7 @@ Copy the manifest URL below and paste it into the module installation field:
 <br>
 <br> 
 
-https://github.com/jacksands/alien-deep-down/blob/main/module.json
+'https://raw.githubusercontent.com/jacksands/alien-deep-down/refs/heads/main/module.json'
 <br>
 <br> 
 <img src="https://github.com/user-attachments/assets/2879dc44-a8c2-414a-bd1c-8d71c12b9a22" height="300" />
