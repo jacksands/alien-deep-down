@@ -191,7 +191,50 @@ Please If you come across any copyrighted material that I may have overlooked, k
 
  
 
- 
+# **MODULES**
+<br>
+<br> 
+REQUIRED:
+<br>
+<br>
+FX MASTER  -  The only one that can create these beautiful effects on the scene, especially underwater. The native weather in Foundry just can't achieve this!
+<br>
+<br> 
+MONK ACTIVE TILES TRIGGER  -  Helps a lot with automations! You can live without it, but trust me, it’s a sad life.
+<br>
+<br> 
+TAGGER  -  Needed for the MONK module to work properly.
+<br>
+<br> 
+<br>
+<br> 
+SUGGESTED:
+<br>
+<br> 
+Easy Regions  -  Enhances the text when teleporting tokens, making it much smoother.
+<br>
+<br> 
+Journal Scaler  -  If you have vision impairments, this will help a lot.
+<br>
+<br> 
+MONK SCENE NAVIGATION  -  Helps with scene organization, keeping things neat.
+<br>
+<br> 
+TOKEN MAGIC FX  -  Why FX? Well... it’s pretty!
+<br>
+<br> 
+Share Media  -  The best way to show media to your players!
+<br>
+<br> 
+Token Variant Art  -  sIt takes time to configure, but helps with tokens that have multiple images, which is great for immersion.
+<br>
+<br> 
+<br>
+<br> 
+A last-minute suggestion:
+<br>
+<br> 
+Use Lock View to fix some scenes if you have the time. All intros and the rise and fall should be pre-configured, but I think the GM should also activate it in the module settings. Since I can't automate this, I leave it as a suggestion.Library: Scene PackerIf you make all this and the module breaks, or journal links break, this solves that kind of problem and brings some automation. Take a look at its README!I'm trying to remove this requirement since it is braking the music configuration for scenes.
 
  
 
