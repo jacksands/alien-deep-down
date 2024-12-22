@@ -66,23 +66,18 @@ https://www.victoryconditiongaming.com/2021/02/alien-rpg-dead-sea-cinematic-scen
 # **About Deep Down**
 <br> 
 <br>
-[Deep-Down-Teaser.webm](https://github.com/user-attachments/assets/c7ecb9bb-2611-43f9-831f-39ad0a04af2e)
-<br> 
-<br>
-
 After running the Colonial Marines campaign—which my players absolutely loved—despite having zero prior experience with the Alien RPG, I decided to take on a cinematic scenario. I was already set on using Dead Sea, but my players were eager to face the Xenos, so I made some adjustments!
 <br> 
 <br>
 
-
 It was a blast! I've run it several times now, receiving great feedback, so I decided to share it!Now I'm making a joke with the directions. First, DEEP DOWN, and now they're playing CRAWLING UP!—a mini-campaign on its 8 sessions and not even half way. Next will be RUNNI... oops, they don't know that yet! 😉
 <br> 
 <br>
-
-
-More truly about Deep Down in the journals!
+A small teaser of my Deep Down Adventure for Alien RPG in Foundry VTT:
+https://www.youtube.com/watch?v=cCVT71oekfI
 <br> 
 <br>
+
 
 
 # **Key Changes in Deep Down**
