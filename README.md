@@ -66,7 +66,9 @@ https://www.victoryconditiongaming.com/2021/02/alien-rpg-dead-sea-cinematic-scen
 # **About Deep Down**
 <br> 
 <br>
-
+[Deep-Down-Teaser.webm](https://github.com/user-attachments/assets/c7ecb9bb-2611-43f9-831f-39ad0a04af2e)
+<br> 
+<br>
 
 After running the Colonial Marines campaign—which my players absolutely loved—despite having zero prior experience with the Alien RPG, I decided to take on a cinematic scenario. I was already set on using Dead Sea, but my players were eager to face the Xenos, so I made some adjustments!
 <br> 
