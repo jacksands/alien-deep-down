@@ -125,13 +125,66 @@ There is also a selection of amazing copyright-free music, with attribution and 
 <br>
 
 
+# **Installation**
+<br>
+<br> 
+<br>
+Copy the manifest URL below and paste it into the module installation field:
+<br>
+<br> 
 
-
-
+https://github.com/jacksands/alien-deep-down/blob/main/module.json
+<br>
+<br> 
+<img src="https://github.com/user-attachments/assets/2879dc44-a8c2-414a-bd1c-8d71c12b9a22" height="300" />
+<br>
+<br> 
+Alternatively, search for the module in the Foundry module browser once it becomes available.
+<br>
+<br> 
+# **Setting Up the World**
+<br>
+<br> 
+Create a new WORLD in Foundry with any name you like and select the ALIEN RPG SYSTEM.
+<br>
+<br> 
+Start the world as usual, then import any necessary assets from the system.
+<br>
+<br> 
+Navigate to:
+<br>
+<br> 
+SETTINGS → MANAGE MODULES
+<br>
+<br> 
+Activate DEEP DOWN. (Some modules are required or recommended—see details below.)
+<br>
+<br> 
+# **Importing the Adventure**
+<br>
+<br> 
+After activating the module:
+<br>
+<br> 
+Go to COMPENDIUM → DEEP DOWN ADVENTURE.
+<br>
+<br> 
+Import the adventure into your game.
+<br>
+<br> 
+<img src="https://github.com/user-attachments/assets/cdf66842-c6ad-4611-9010-e9ed230a0bbd" height="300" />
+<br>
+<br> 
+<br> 
+<br>
+<br> 
 
 # **Thank you** 
+<br>
+<br> 
 Thank you for taking the time to explore Deep Down. I’d love to hear your feedback, you can find me at the Alien RPG by Free League wasting everyone’s time! 
-
+<br>
+<br> 
 Please If you come across any copyrighted material that I may have overlooked, kindly let me know, and I will promptly remove it.
 
  
