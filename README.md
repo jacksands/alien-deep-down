@@ -226,7 +226,7 @@ TOKEN MAGIC FX  -  Why FX? Well... it’s pretty!
 Share Media  -  The best way to show media to your players!
 <br>
 <br> 
-Token Variant Art  -  sIt takes time to configure, but helps with tokens that have multiple images, which is great for immersion.
+Token Variant Art  -  This takes time to configure, but helps with tokens that have multiple images, which is great for immersion.
 <br>
 <br> 
 <br>
