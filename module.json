@@ -147,5 +147,9 @@
       }
     ]
   },
-  "manifest": ""
+    "url": "https://github.com/jacksands/alien-deep-down",
+    "manifest": "https://raw.githubusercontent.com/jacksands/swade-animated-action-deck/refs/heads/main/module.json",
+    "download": "https://codeload.github.com/jacksands/swade-animated-action-deck/zip/refs/heads/main" 
 }
+
+
