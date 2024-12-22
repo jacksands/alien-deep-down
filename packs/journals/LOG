@@ -1,0 +1,7 @@
+2024/12/21-20:49:06.646 c58 Recovering log #70
+2024/12/21-20:49:06.832 c58 Delete type=0 #70
+2024/12/21-20:49:06.832 c58 Delete type=3 #68
+2024/12/21-20:49:28.008 2cd8 Level-0 table #75: started
+2024/12/21-20:49:28.008 2cd8 Level-0 table #75: 0 bytes OK
+2024/12/21-20:49:28.086 2cd8 Delete type=0 #73
+2024/12/21-20:49:28.219 2cd8 Manual compaction at level-0 from '!folders!3WEbekbKztXvhiAj' @ 72057594037927935 : 1 .. '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 0 : 0; will stop at (end)

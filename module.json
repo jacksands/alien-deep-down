@@ -1,0 +1,151 @@
+{
+  "id": "alien-deep-down",
+  "title": "Alien - Deep Down",
+  "description": "Beneath the oceans of the planet Voda, a diver's mysterious disappearance transforms a routine Ministry of Space Security inspection into a harrowing descent into corruption, power abuse, and the monstrous remnants of the last war.  \n\nA desperate fight for survival against a new face to an old horror.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Jack Sands",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Alien - Deep Down",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "alienrpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "adventure",
+      "label": "Alien - Deep Down",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "system": "alienrpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items",
+      "label": "Alien - Deep Down",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "alienrpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journals",
+      "label": "Alien - Deep Down",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Alien - Deep Down",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "maps",
+      "label": "Alien - Deep Down",
+      "path": "packs/maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "playlists",
+      "label": "Alien - Deep Down",
+      "path": "packs/playlists",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rolltables",
+      "label": "Alien - Deep Down",
+      "path": "packs/rolltables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "monks-scene-navigation",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "journal-font-scaler",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "share-media",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-variants",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tagger",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-show-notes",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "manifest": ""
+}
