@@ -74,7 +74,7 @@ It was a blast! I've run it several times now, receiving great feedback, so I de
 <br> 
 <br>
 A small teaser of my Deep Down Adventure for Alien RPG in Foundry VTT:
-https://www.youtube.com/watch?v=cCVT71oekfI
+[https://www.youtube.com/watch?v=cCVT71oekfI](https://youtu.be/v0vvAQuHKZs)
 <br> 
 <br>
 
