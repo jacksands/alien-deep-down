@@ -124,9 +124,13 @@ There is also a selection of amazing copyright-free music, with attribution and 
 
 # **Installation**
 <br>
+
+Search for the module in the Foundry module browser once it becomes available.
 <br> 
 <br>
-Copy the manifest URL below and paste it into the module installation field:
+<br>
+<br> 
+Alternatively, Copy the manifest URL below and paste it into the module installation field:
 <br>
 <br> 
 
@@ -136,9 +140,7 @@ Copy the manifest URL below and paste it into the module installation field:
 <img src="https://github.com/user-attachments/assets/2879dc44-a8c2-414a-bd1c-8d71c12b9a22" height="300" />
 <br>
 <br> 
-Alternatively, search for the module in the Foundry module browser once it becomes available.
-<br>
-<br> 
+
 # **Setting Up the World**
 <br>
 <br> 
