@@ -8,14 +8,7 @@ Deep Down, a gripping underwater horror adventure.
 
 Set in the deeps of the on the mysterious ocean planet Voda, a team must the chaos of an isolated research station teetering on the edge of collapse. Tensions run high after a diver desapearence, and the unforgiving deep reveals threats far beyond the limits of human understanding.
 
-<br> 
-<br>
 
-
-Hi there! My name is Erich. I’m a forensic photographer, father, and—unjustly, I assure you—sometimes called ‘slightly crazy’ (pure slander!). Above all, I’m a passionate fan of tabletop and virtual tabletop RPGs.
-<br> 
-<br>
-<img src="https://github.com/user-attachments/assets/90ec29f6-a01c-4b09-9e6f-92bb0e4e6aeb" width="150" />
 <br>
 This is my first attempt at sharing an adventure with the community, and I sincerely hope you enjoy it!
 <br> 
