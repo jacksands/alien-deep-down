@@ -1,5 +1,10 @@
 # **Welcome to Deep Down**
 
+![Downloads](https://img.shields.io/github/downloads/jacksands/alien-deep-down/total)
+![Stars](https://img.shields.io/github/stars/jacksands/alien-deep-down)
+![Última release](https://img.shields.io/github/v/release/jacksands/alien-deep-down)
+![Issues](https://img.shields.io/github/issues/jacksands/alien-deep-down)
+
  ![DEEP_DOWN_ART](https://github.com/user-attachments/assets/fcc97561-8c70-496f-9594-c7f8048317ec)
 <br> 
 <br> 
